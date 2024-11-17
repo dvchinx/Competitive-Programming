@@ -9,7 +9,7 @@ Este repositorio almacena soluciones organizadas por carpetas, que corresponden 
 ## 📋 Estructura del Repositorio  
 Las soluciones están organizadas en carpetas según el identificador del problema en **Codeforces**. Cada carpeta contiene:  
 - El archivo `.java` y `.py` con la solución al problema.  
-- Un archivo `README.md` adicional con detalles sobre el problema (opcional).  
+- Un archivo `README.md` adicional con detalles sobre el problema.  
 
 ```plaintext
 Competitive-Programming/
