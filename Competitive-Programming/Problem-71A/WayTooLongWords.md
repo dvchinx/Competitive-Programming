@@ -35,7 +35,8 @@ internationalization
 pneumonoultramicroscopicsilicovolcanoconiosis
 ```
 
-###Output
+<h3>Output</h3>
+
 ```
 word
 l10n

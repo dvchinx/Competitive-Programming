@@ -13,9 +13,17 @@ each of them should get a part of positive weight.
 
 The first (and the only) input line contains integer number w (1 ≤ w ≤ 100) — the weight of the watermelon bought by the boys.
 
+```
+    8
+```
+
 <h3>OUTPUT</h3>
 
 Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case.
+
+```
+    YES
+```
 
 <h3>NOTE</h3>
 

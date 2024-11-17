@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Watermelon {
+public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
