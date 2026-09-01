@@ -1,1 +1,76 @@
-/src
+# ---------- Executables ----------
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.elf
+a.out
+
+# ---------- Build artifacts ----------
+*.d
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.su
+*.map
+*.stackdump
+
+# ---------- Build directories ----------
+build/
+bin/
+obj/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.local
+
+# ---------- Editors / IDEs ----------
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+.cache/
+compile_commands.json
+.clangd/
+
+# ---------- Operating system ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ---------- Local testing ----------
+# Test input/output files that are not part of the repo.
+# Uncomment if you keep your test cases locally:
+# *.in
+# *.ans
+# *.txt
+input.txt
+output.txt
+expected.txt
+tests/local/
+
+# ---------- Misc ----------
+*.log
+*.tmp
+*.zip
+*.tar.gz
