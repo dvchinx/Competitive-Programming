@@ -15,7 +15,8 @@
 
 ### Table of Contents
 
-| Problem          | Difficulty | Solution                             | Link                                                                    |
-| ---------------- | ---------- | ------------------------------------ | --------------------------------------------------------------------- |
-| Two Sum          | Easy       | [C++](src/LeetCode/twoSum.cpp)        | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/two-sum/)             |
-| Palindrome Number | Easy      | [C++](src/LeetCode/isPalindrome.cpp)  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/palindrome-number/) |
+| Problem                   | Difficulty | Solution                                               | Link                                                                                                        |
+| ------------------------- | ---------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Two Sum                   | Easy       | [C++](src/LeetCode/twoSum.cpp)                      | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/two-sum/)                   |
+| Palindrome Number         | Easy       | [C++](src/LeetCode/isPalindrome.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/palindrome-number/)         |
+| Merge Strings Alternately | Easy       | [C++](src/LeetCode/mergeStringsAlternately.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/merge-strings-alternately/) |
