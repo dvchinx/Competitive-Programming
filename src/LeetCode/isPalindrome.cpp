@@ -1,26 +1,16 @@
-#include <bits/stdc++.h>
-using namespace std;
+// 9 - Is Palindrome
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        if (x < 0) return false;
 
-bool isPalindrome(int x) {
-    if (x < 0) return false;
+        int original = x;
+        long long reversed = 0;
 
-    int original = x;
-    int reversed = 0;
-
-    while (x > 0) {
-        reversed = (reversed*10) + x%10;
-        x /= 10;
+        while (x > 0) {
+            reversed = (reversed*10) + x % 10;
+            x /= 10;
+        }
+        return reversed == original;
     }
-    return original == reversed;
-}
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    bool res = isPalindrome(121);
-
-    cout << (res == 0 ? "false" : "true") << "\n";
-
-    return 0;
-}
+};
