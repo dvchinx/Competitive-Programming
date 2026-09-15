@@ -10,6 +10,7 @@
 | Judging Moose        | 1.4        | [C++](src/Kattis/judgingmoose.cpp)        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
 | Mixed Fractions      | 1.4        | [C++](src/Kattis/mixedfractions.cpp)      | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
 | Roaming Romans       | 1.5        | [C++](src/Kattis/roamingromans.cpp)       | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
+| Video Games          | 1.5        | [C++](src/Kattis/videogames.cpp)          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
 
 ## LeetCode Solutions
 
