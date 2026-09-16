@@ -23,3 +23,11 @@
 | Merge Strings Alternately   | Easy       | [C++](src/LeetCode/mergeStringsAlternately.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/merge-strings-alternately/)   |
 | Find Closest Number to Zero | Easy       | [C++](src/LeetCode/findClosestNumberToZero.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/find-closest-number-to-zero/) |
 | Longest Common Prefix       | Easy       | [C++](src/LeetCode/longestCommonPrefix.cpp)     | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/longest-common-prefix/)       |
+
+## Codeforces Solutions
+
+### Table of Contents - Difficulty: 800
+
+| ID   | Problem  | Tags                 | Solution                                  | Link                                                                                           |
+| ---- | -------- | -------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 136A | Presents | implementation, math | [C++](Codeforces/136A%20-%20Presents.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A) |

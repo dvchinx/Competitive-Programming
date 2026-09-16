@@ -13,7 +13,7 @@ vector<int> permutacionInversa(const vector<int>& v) {
     vector<int> inversa(n);
 
     for (int i = 0; i < n; ++i) {
-        // Partiendo desde base 0 (pedido por el ejercicio)
+        // Partiendo desde base 1 (pedido por el ejercicio)
         inversa[v[i] - 1] = i + 1;
     }
 
