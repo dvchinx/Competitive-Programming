@@ -1,3 +1,10 @@
+/*
+Problem: Judging Moose
+URL: https://open.kattis.com/problems/judgingmoose
+Language: C++
+Author: dvchinx
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -5,6 +12,7 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 
+    // Solo almacena números positivos (0 -> ...)
     unsigned int l, r;
     cin >> l >> r;
 

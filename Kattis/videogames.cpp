@@ -1,8 +1,14 @@
+/*
+Problem: Video Games
+URL: https://open.kattis.com/problems/videogames
+Language: C++
+Author: dvchinx
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// Mi solución en O(N)
-
+// Mi solución en O(n)
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
