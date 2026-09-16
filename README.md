@@ -11,6 +11,7 @@
 | Mixed Fractions      | 1.4        | [C++](Kattis/mixedfractions.cpp)      | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
 | Roaming Romans       | 1.5        | [C++](Kattis/roamingromans.cpp)       | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
 | Video Games          | 1.5        | [C++](Kattis/videogames.cpp)          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
+| Patuljci             | 1.6        | [C++](Kattis/patuljci.cpp)            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
 
 ## LeetCode Solutions
 
