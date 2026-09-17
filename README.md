@@ -34,3 +34,9 @@
 | ID   | Problem  | Tags                 | Solution                                  | Link                                                                                           |
 | ---- | -------- | -------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 136A | Presents | implementation, math | [C++](Codeforces/136A%20-%20Presents.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A) |
+
+### Table of Contents - Difficulty: 1000
+
+| ID   | Problem         | Tags                         | Solution                                             | Link                                                                                           |
+| ---- | --------------- | ---------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 266B | Queue at School | implementation, two pointers | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B) |
