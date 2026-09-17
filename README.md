@@ -26,6 +26,7 @@
 | Merge Strings Alternately   | Easy       | [C++](LeetCode/mergeStringsAlternately.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/merge-strings-alternately/)   |
 | Find Closest Number to Zero | Easy       | [C++](LeetCode/findClosestNumberToZero.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/find-closest-number-to-zero/) |
 | Longest Common Prefix       | Easy       | [C++](LeetCode/longestCommonPrefix.cpp)     | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/longest-common-prefix/)       |
+| Valid Parentheses           | Easy       | [C++](LeetCode/validParentheses.cpp)        | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/valid-parentheses/)           |
 
 ## Codeforces Solutions
 
