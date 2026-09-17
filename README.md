@@ -4,14 +4,16 @@
 
 ### Table of Contents - Easy
 
-| Problem              | Difficulty | Solution                              | Link                                                                                              |
-| -------------------- | ---------- | ------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Detailed Differences | 1.3        | [C++](Kattis/detaileddifferences.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
-| Judging Moose        | 1.4        | [C++](Kattis/judgingmoose.cpp)        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
-| Mixed Fractions      | 1.4        | [C++](Kattis/mixedfractions.cpp)      | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
-| Roaming Romans       | 1.5        | [C++](Kattis/roamingromans.cpp)       | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
-| Video Games          | 1.5        | [C++](Kattis/videogames.cpp)          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
-| Patuljci             | 1.6        | [C++](Kattis/patuljci.cpp)            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
+| Problem               | Difficulty | Solution                                                                  | Link                                                                                              |
+| --------------------- | ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Detailed Differences  | 1.3        | [C++](Kattis/detaileddifferences.cpp)                                     | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
+| Judging Moose         | 1.4        | [C++](Kattis/judgingmoose.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
+| Mixed Fractions       | 1.4        | [C++](Kattis/mixedfractions.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
+| Roaming Romans        | 1.5        | [C++](Kattis/roamingromans.cpp)                                           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
+| Video Games           | 1.5        | [C++](Kattis/videogames.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
+| Sum of Powers         | 1.5        | [C++](Kattis/sumofpowers.cpp) / [Python](Kattis/sumofpowers.py)           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumofpowers)         |
+| Patuljci              | 1.6        | [C++](Kattis/patuljci.cpp)                                                | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
+| Bacon, Eggs, and Spam | 1.7        | [C++](Kattis/baconeggsandspam.cpp) / [Python](Kattis/baconeggsandspam.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspam)    |
 
 ## LeetCode Solutions
 
