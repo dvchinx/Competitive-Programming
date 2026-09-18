@@ -2,7 +2,7 @@
 
 ## Kattis Solutions
 
-### Table of Contents - Easy
+### Table of Contents
 
 | Problem               | Difficulty | Solution                                                                  | Link                                                                                              |
 | --------------------- | ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -14,6 +14,7 @@
 | Sum of Powers         | 1.5        | [C++](Kattis/sumofpowers.cpp) / [Python](Kattis/sumofpowers.py)           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumofpowers)         |
 | Patuljci              | 1.6        | [C++](Kattis/patuljci.cpp)                                                | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
 | Bacon, Eggs, and Spam | 1.7        | [C++](Kattis/baconeggsandspam.cpp) / [Python](Kattis/baconeggsandspam.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspam)    |
+| Broken Calculator     | 2.5        | [C++](Kattis/brokencalculator.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator)    |
 
 ## LeetCode Solutions
 
