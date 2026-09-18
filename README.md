@@ -19,14 +19,15 @@
 
 ### Table of Contents
 
-| Problem                     | Difficulty | Solution                                    | Link                                                                                                          |
-| --------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Two Sum                     | Easy       | [C++](LeetCode/twoSum.cpp)                  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/two-sum/)                     |
-| Palindrome Number           | Easy       | [C++](LeetCode/isPalindrome.cpp)            | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/palindrome-number/)           |
-| Merge Strings Alternately   | Easy       | [C++](LeetCode/mergeStringsAlternately.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/merge-strings-alternately/)   |
-| Find Closest Number to Zero | Easy       | [C++](LeetCode/findClosestNumberToZero.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/find-closest-number-to-zero/) |
-| Longest Common Prefix       | Easy       | [C++](LeetCode/longestCommonPrefix.cpp)     | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/longest-common-prefix/)       |
-| Valid Parentheses           | Easy       | [C++](LeetCode/validParentheses.cpp)        | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/valid-parentheses/)           |
+| Problem                             | Difficulty | Solution                                            | Link                                                                                                                  |
+| ----------------------------------- | ---------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Two Sum                             | Easy       | [C++](LeetCode/twoSum.cpp)                          | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/two-sum/)                             |
+| Palindrome Number                   | Easy       | [C++](LeetCode/isPalindrome.cpp)                    | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/palindrome-number/)                   |
+| Merge Strings Alternately           | Easy       | [C++](LeetCode/mergeStringsAlternately.cpp)         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/merge-strings-alternately/)           |
+| Find Closest Number to Zero         | Easy       | [C++](LeetCode/findClosestNumberToZero.cpp)         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/find-closest-number-to-zero/)         |
+| Longest Common Prefix               | Easy       | [C++](LeetCode/longestCommonPrefix.cpp)             | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/longest-common-prefix/)               |
+| Valid Parentheses                   | Easy       | [C++](LeetCode/validParentheses.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/valid-parentheses/)                   |
+| Remove Duplicates from Sorted Array | Easy       | [C++](LeetCode/removeDuplicatesFromSortedArray.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ## Codeforces Solutions
 
