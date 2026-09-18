@@ -30,14 +30,10 @@
 
 ## Codeforces Solutions
 
-### Table of Contents - Difficulty: 800
+### Table of Contents
 
-| ID   | Problem  | Tags                 | Solution                                  | Link                                                                                           |
-| ---- | -------- | -------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 136A | Presents | implementation, math | [C++](Codeforces/136A%20-%20Presents.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A) |
-
-### Table of Contents - Difficulty: 1000
-
-| ID   | Problem         | Tags                         | Solution                                             | Link                                                                                           |
-| ---- | --------------- | ---------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 266B | Queue at School | implementation, two pointers | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B) |
+| ID   | Problem                | Difficulty | Tags                         | Solution                                                      | Link                                                                                           |
+| ---- | ---------------------- | ---------- | ---------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 136A | Presents               | 800        | implementation, math         | [C++](Codeforces/136A%20-%20Presents.cpp)                     | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A) |
+| 144A | Arrival of the General | 800        | implementation               | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A) |
+| 266B | Queue at School        | 1000       | implementation, two pointers | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp)          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B) |
