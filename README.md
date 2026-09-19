@@ -6,6 +6,7 @@
 
 | Problem               | Difficulty | Solution                                                                  | Link                                                                                              |
 | --------------------- | ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Palindrome            | 1.2        | [C++](Kattis/palindrome.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/palindrome)          |
 | Detailed Differences  | 1.3        | [C++](Kattis/detaileddifferences.cpp)                                     | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | Judging Moose         | 1.4        | [C++](Kattis/judgingmoose.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
 | Mixed Fractions       | 1.4        | [C++](Kattis/mixedfractions.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
