@@ -74,3 +74,6 @@ tests/local/
 *.tmp
 *.zip
 *.tar.gz
+
+# ---------- AI -----------
+CLAUDE.md
