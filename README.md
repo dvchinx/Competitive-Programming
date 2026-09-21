@@ -38,10 +38,13 @@
 
 ### Table of Contents
 
-| ID   | Problem                | Difficulty | Tags                         | Solution                                                      | Link                                                                                           |
-| ---- | ---------------------- | ---------- | ---------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 136A | Presents               | 800        | implementation, math         | [C++](Codeforces/136A%20-%20Presents.cpp)                     | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A) |
-| 144A | Arrival of the General | 800        | implementation               | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A) |
-| 469A | I Wanna Be the Guy     | 800        | greedy, implementation       | [C++](Codeforces/469A%20-%20I%20Wanna%20Be%20the%20Guy.cpp)   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/469/A) |
-| 520A | Pangram                | 800        | implementation, strings      | [C++](Codeforces/520A%20-%20Pangram.cpp)                      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/520/A) |
-| 266B | Queue at School        | 1000       | implementation, two pointers | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp)          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B) |
+| ID    | Problem                | Difficulty | Tags                         | Solution                                                      | Link                                                                                            |
+| ----- | ---------------------- | ---------- | ---------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 136A  | Presents               | 800        | implementation, math         | [C++](Codeforces/136A%20-%20Presents.cpp)                     | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A)  |
+| 144A  | Arrival of the General | 800        | implementation               | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A)  |
+| 469A  | I Wanna Be the Guy     | 800        | greedy, implementation       | [C++](Codeforces/469A%20-%20I%20Wanna%20Be%20the%20Guy.cpp)   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/469/A)  |
+| 520A  | Pangram                | 800        | implementation, strings      | [C++](Codeforces/520A%20-%20Pangram.cpp)                      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/520/A)  |
+| 266B  | Queue at School        | 1000       | implementation, two pointers | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp)          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B)  |
+| 2266A | Good Contest           | -          | greedy                       | [C++](Codeforces/2266A%20-%20Good%20Contest.cpp)              | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/A) |
+| 2266B | Three Piles            | -          | games, greedy, math          | [C++](Codeforces/2266B%20-%20Three%20Piles.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/B) |
+| 2266C | AND, OR, Sort!         | -          | greedy, strings              | [C++](Codeforces/2266C%20-%20AND%20OR%20SORT.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/C) |
