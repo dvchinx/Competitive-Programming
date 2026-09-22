@@ -34,6 +34,7 @@
 | Remove Duplicates from Sorted Array | Easy       | [C++](LeetCode/removeDuplicatesFromSortedArray.cpp) | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | Remove Element                      | Easy       | [C++](LeetCode/removeElement.cpp)                   | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/remove-element/)                      |
 | Search Insert Position              | Easy       | [C++](LeetCode/searchInsertPosition.cpp)            | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/search-insert-position/)              |
+| Length of Last Word                 | Easy       | [C++](LeetCode/lengthOfLastWord.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/length-of-last-word/)                 |
 
 ## Codeforces Solutions
 
