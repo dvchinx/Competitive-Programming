@@ -10,6 +10,7 @@
 | Detailed Differences  | 1.3        | [C++](Kattis/detaileddifferences.cpp)                                     | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | Judging Moose         | 1.4        | [C++](Kattis/judgingmoose.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
 | Mixed Fractions       | 1.4        | [C++](Kattis/mixedfractions.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
+| Playing Piano         | 1.4-1.5    | [C++](Kattis/playingpiano.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spelapiano)          |
 | Roaming Romans        | 1.5        | [C++](Kattis/roamingromans.cpp)                                           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
 | Video Games           | 1.5        | [C++](Kattis/videogames.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
 | Sum of Powers         | 1.5        | [C++](Kattis/sumofpowers.cpp) / [Python](Kattis/sumofpowers.py)           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumofpowers)         |
