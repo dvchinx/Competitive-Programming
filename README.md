@@ -20,6 +20,7 @@
 | Multiple Choice       | 1.8        | [C++](Kattis/multiplechoice.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplechoice)      |
 | Where's My Internet?  | 1.8        | [C++](Kattis/wheresmyinternet.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/wheresmyinternet)    |
 | Broken Calculator     | 2.5        | [C++](Kattis/brokencalculator.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator)    |
+| Eight Queens          | 2.7        | [C++](Kattis/eightqueens.cpp)                                             | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/8queens)             |
 
 ## LeetCode Solutions
 
