@@ -30,6 +30,6 @@ public:
             }
         }
         // Si la pila está vacía, retornar true, en otro caso, retornar false
-        return (pila.empty() ? true : false);
+        return pila.empty();
     }
 };
