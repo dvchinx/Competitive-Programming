@@ -1,8 +1,57 @@
 # Competitive Programming
 
+- [AtCoder](#atcoder-solutions)
+- [Codeforces](#codeforces-solutions)
+- [Kattis](#kattis-solutions)
+- [LeetCode](#leetcode-solutions)
+
+## AtCoder Solutions
+
+**Profile:** [dvchinx](https://atcoder.jp/users/dvchinx)
+
+<details>
+<summary>Table of Contents</summary>
+
+| Contest | Problem               | Solution                                                                | Link                                                                                         |
+| ------- | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ABC476  | A - Appender          | [C++](AtCoder/Beginner%20Contest%20476/A%20-%20Appender.cpp)            | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc476/tasks/abc476_a) |
+| ABC476  | B - Wild Card         | [C++](AtCoder/Beginner%20Contest%20476/B%20-%20Wild%20Card.cpp)         | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc476/tasks/abc476_b) |
+| ABC477  | A - Traffic Light     | [C++](AtCoder/Beginner%20Contest%20477/A%20-%20Traffic%20Light.cpp)     | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc477/tasks/abc477_a) |
+| ABC477  | B - Standing Outliers | [C++](AtCoder/Beginner%20Contest%20477/B%20-%20Standing%20Outliers.cpp) | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc477/tasks/abc477_b) |
+
+</details>
+
+## Codeforces Solutions
+
+**Profile:** [dvchinx](https://codeforces.com/profile/dvchinx)
+
+<details>
+<summary>Table of Contents</summary>
+
+| ID    | Problem                    | Difficulty | Tags                                   | Solution                                                           | Link                                                                                            |
+| ----- | -------------------------- | ---------- | -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 136A  | Presents                   | 800        | implementation, math                   | [C++](Codeforces/136A%20-%20Presents.cpp)                          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A)  |
+| 144A  | Arrival of the General     | 800        | implementation                         | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp)      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A)  |
+| 443A  | Anton and Letters          | 800        | implementation, strings                | [C++](Codeforces/443A%20-%20Anton%20and%20Letters.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/443/A)  |
+| 469A  | I Wanna Be the Guy         | 800        | greedy, implementation                 | [C++](Codeforces/469A%20-%20I%20Wanna%20Be%20the%20Guy.cpp)        | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/469/A)  |
+| 520A  | Pangram                    | 800        | implementation, strings                | [C++](Codeforces/520A%20-%20Pangram.cpp)                           | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/520/A)  |
+| 996A  | Hit the Lottery            | 800        | greedy, math                           | [C++](Codeforces/996A%20-%20Hit%20the%20Lottery.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/996/A)  |
+| 2264A | Rumb Needs a Hand          | 800        | implementation, sortings, two pointers | [C++](Codeforces/2264A%20-%20Rumb%20Needs%20a%20Hand.cpp)          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2264/A) |
+| 266B  | Queue at School            | 1000       | implementation, two pointers           | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B)  |
+| 2266A | Good Contest               | -          | greedy                                 | [C++](Codeforces/2266A%20-%20Good%20Contest.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/A) |
+| 2266B | Three Piles                | -          | games, greedy, math                    | [C++](Codeforces/2266B%20-%20Three%20Piles.cpp)                    | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/B) |
+| 2266C | AND, OR, Sort!             | -          | greedy, strings                        | [C++](Codeforces/2266C%20-%20AND%20OR%20SORT.cpp)                  | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/C) |
+| 2269A | SauSaGe Bank               | -          | greedy                                 | [C++](Codeforces/2269A%20-%20SauSaGe%20Bank.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/A) |
+| 2269B | KiaKio and Squared Numbers | -          | brute force, implementation            | [C++](Codeforces/2269B%20-%20KiaKio%20and%20Squared%20Numbers.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/B) |
+
+</details>
+
 ## Kattis Solutions
 
-### Table of Contents
+**Profile:** [jesus-florez](https://open.kattis.com/users/jesus-florez)
+
+<details>
+<summary>Table of Contents</summary>
 
 | Problem               | Difficulty | Solution                                                                  | Link                                                                                              |
 | --------------------- | ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -22,9 +71,14 @@
 | Broken Calculator     | 2.5        | [C++](Kattis/brokencalculator.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator)    |
 | Eight Queens          | 2.7        | [C++](Kattis/eightqueens.cpp)                                             | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/8queens)             |
 
+</details>
+
 ## LeetCode Solutions
 
-### Table of Contents
+**Profile:** [dvchinx_](https://leetcode.com/u/dvchinx_/)
+
+<details>
+<summary>Table of Contents</summary>
 
 | Problem                             | Difficulty | Solution                                            | Link                                                                                                                  |
 | ----------------------------------- | ---------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -40,22 +94,4 @@
 | Length of Last Word                 | Easy       | [C++](LeetCode/lengthOfLastWord.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/length-of-last-word/)                 |
 | Plus One                            | Easy       | [C++](LeetCode/plusOne.cpp)                         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/plus-one/)                            |
 
-## Codeforces Solutions
-
-### Table of Contents
-
-| ID    | Problem                    | Difficulty | Tags                                   | Solution                                                           | Link                                                                                            |
-| ----- | -------------------------- | ---------- | -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 136A  | Presents                   | 800        | implementation, math                   | [C++](Codeforces/136A%20-%20Presents.cpp)                          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A)  |
-| 144A  | Arrival of the General     | 800        | implementation                         | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp)      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A)  |
-| 443A  | Anton and Letters          | 800        | implementation, strings                | [C++](Codeforces/443A%20-%20Anton%20and%20Letters.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/443/A)  |
-| 469A  | I Wanna Be the Guy         | 800        | greedy, implementation                 | [C++](Codeforces/469A%20-%20I%20Wanna%20Be%20the%20Guy.cpp)        | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/469/A)  |
-| 520A  | Pangram                    | 800        | implementation, strings                | [C++](Codeforces/520A%20-%20Pangram.cpp)                           | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/520/A)  |
-| 996A  | Hit the Lottery            | 800        | greedy, math                           | [C++](Codeforces/996A%20-%20Hit%20the%20Lottery.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/996/A)  |
-| 2264A | Rumb Needs a Hand          | 800        | implementation, sortings, two pointers | [C++](Codeforces/2264A%20-%20Rumb%20Needs%20a%20Hand.cpp)          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2264/A) |
-| 266B  | Queue at School            | 1000       | implementation, two pointers           | [C++](Codeforces/266B%20-%20Queue%20at%20School.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/266/B)  |
-| 2266A | Good Contest               | -          | greedy                                 | [C++](Codeforces/2266A%20-%20Good%20Contest.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/A) |
-| 2266B | Three Piles                | -          | games, greedy, math                    | [C++](Codeforces/2266B%20-%20Three%20Piles.cpp)                    | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/B) |
-| 2266C | AND, OR, Sort!             | -          | greedy, strings                        | [C++](Codeforces/2266C%20-%20AND%20OR%20SORT.cpp)                  | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/C) |
-| 2269A | SauSaGe Bank               | -          | greedy                                 | [C++](Codeforces/2269A%20-%20SauSaGe%20Bank.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/A) |
-| 2269B | KiaKio and Squared Numbers | -          | brute force, implementation            | [C++](Codeforces/2269B%20-%20KiaKio%20and%20Squared%20Numbers.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/B) |
+</details>
