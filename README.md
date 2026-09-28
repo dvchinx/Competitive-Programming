@@ -41,6 +41,7 @@
 | 2266A | Good Contest               | -          | greedy                                 | [C++](Codeforces/2266A%20-%20Good%20Contest.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/A) |
 | 2266B | Three Piles                | -          | games, greedy, math                    | [C++](Codeforces/2266B%20-%20Three%20Piles.cpp)                    | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/B) |
 | 2266C | AND, OR, Sort!             | -          | greedy, strings                        | [C++](Codeforces/2266C%20-%20AND%20OR%20SORT.cpp)                  | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2266/C) |
+| 2267A | Turn Into a Palindrome     | -          | constructive algorithms, greedy        | [C++](Codeforces/2267A%20-%20Turn%20Into%20a%20Palindrome.cpp)     | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2267/A) |
 | 2269A | SauSaGe Bank               | -          | greedy                                 | [C++](Codeforces/2269A%20-%20SauSaGe%20Bank.cpp)                   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/A) |
 | 2269B | KiaKio and Squared Numbers | -          | brute force, implementation            | [C++](Codeforces/2269B%20-%20KiaKio%20and%20Squared%20Numbers.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2269/B) |
 
