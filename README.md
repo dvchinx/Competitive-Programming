@@ -12,12 +12,12 @@
 <details>
 <summary>Table of Contents</summary>
 
-| Contest | Problem               | Solution                                                                | Link                                                                                         |
-| ------- | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ABC476  | A - Appender          | [C++](AtCoder/Beginner%20Contest%20476/A%20-%20Appender.cpp)            | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc476/tasks/abc476_a) |
-| ABC476  | B - Wild Card         | [C++](AtCoder/Beginner%20Contest%20476/B%20-%20Wild%20Card.cpp)         | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc476/tasks/abc476_b) |
-| ABC477  | A - Traffic Light     | [C++](AtCoder/Beginner%20Contest%20477/A%20-%20Traffic%20Light.cpp)     | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc477/tasks/abc477_a) |
-| ABC477  | B - Standing Outliers | [C++](AtCoder/Beginner%20Contest%20477/B%20-%20Standing%20Outliers.cpp) | [![:ac:](https://atcoder.jp/favicon.ico)](https://atcoder.jp/contests/abc477/tasks/abc477_b) |
+| Contest | Problem               | Solution                                                                | Link                                                                                                                  |
+| ------- | --------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ABC476  | A - Appender          | [C++](AtCoder/Beginner%20Contest%20476/A%20-%20Appender.cpp)            | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_a) |
+| ABC476  | B - Wild Card         | [C++](AtCoder/Beginner%20Contest%20476/B%20-%20Wild%20Card.cpp)         | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_b) |
+| ABC477  | A - Traffic Light     | [C++](AtCoder/Beginner%20Contest%20477/A%20-%20Traffic%20Light.cpp)     | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_a) |
+| ABC477  | B - Standing Outliers | [C++](AtCoder/Beginner%20Contest%20477/B%20-%20Standing%20Outliers.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_b) |
 
 </details>
 
