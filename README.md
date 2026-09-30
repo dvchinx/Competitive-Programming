@@ -68,6 +68,7 @@
 | Sum of Powers         | 1.5        | [C++](Kattis/sumofpowers.cpp) / [Python](Kattis/sumofpowers.py)           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumofpowers)         |
 | Car Racing            | 1.5        | [C++](Kattis/carracing.cpp)                                               | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carracing)           |
 | Dralinpome            | 1.5        | [C++](Kattis/dralinpome.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dralinpome)          |
+| Arm Coordination      | 1.6        | [C++](Kattis/armcoordination.cpp)                                         | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination)     |
 | Patuljci              | 1.6        | [C++](Kattis/patuljci.cpp)                                                | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
 | Bacon, Eggs, and Spam | 1.7        | [C++](Kattis/baconeggsandspam.cpp) / [Python](Kattis/baconeggsandspam.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspam)    |
 | Multiple Choice       | 1.8        | [C++](Kattis/multiplechoice.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplechoice)      |
