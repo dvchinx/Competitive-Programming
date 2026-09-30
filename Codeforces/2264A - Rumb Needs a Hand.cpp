@@ -1,5 +1,5 @@
 /*
-Problem: Rumb Needs a Hand
+Problem: 2264A Rumb Needs a Hand
 URL: https://codeforces.com/problemset/problem/2264/A
 Language: C++
 Author: dvchinx
