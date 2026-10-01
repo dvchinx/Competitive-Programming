@@ -103,5 +103,6 @@
 | Search Insert Position              | Easy       | [C++](LeetCode/searchInsertPosition.cpp)            | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/search-insert-position/)              |
 | Length of Last Word                 | Easy       | [C++](LeetCode/lengthOfLastWord.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/length-of-last-word/)                 |
 | Plus One                            | Easy       | [C++](LeetCode/plusOne.cpp)                         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/plus-one/)                            |
+| Add Binary                          | Easy       | [C++](LeetCode/addBinary.cpp)                       | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/add-binary/)                          |
 
 </details>
