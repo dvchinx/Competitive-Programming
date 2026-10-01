@@ -71,6 +71,7 @@
 | Dralinpome            | 1.5        | [C++](Kattis/dralinpome.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dralinpome)          |
 | Arm Coordination      | 1.6        | [C++](Kattis/armcoordination.cpp)                                         | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armcoordination)     |
 | Patuljci              | 1.6        | [C++](Kattis/patuljci.cpp)                                                | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/patuljci)            |
+| Democratic Naming     | 1.6        | [C++](Kattis/democraticnaming.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/democraticnaming)    |
 | Bacon, Eggs, and Spam | 1.7        | [C++](Kattis/baconeggsandspam.cpp) / [Python](Kattis/baconeggsandspam.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspam)    |
 | Sudoku Verify         | 1.7        | [C++](Kattis/sudokuverify.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sudokuverify)        |
 | Multiple Choice       | 1.8        | [C++](Kattis/multiplechoice.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplechoice)      |
