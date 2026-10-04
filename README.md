@@ -78,6 +78,7 @@
 | Krizaljka             | 1.6        | [C++](Kattis/krizaljka.cpp)                                               | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/krizaljka)           |
 | Bacon, Eggs, and Spam | 1.7        | [C++](Kattis/baconeggsandspam.cpp) / [Python](Kattis/baconeggsandspam.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspam)    |
 | Sudoku Verify         | 1.7        | [C++](Kattis/sudokuverify.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sudokuverify)        |
+| Sideways Sorting      | 1.7        | [C++](Kattis/sidewayssorting.cpp)                                         | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sidewayssorting)     |
 | Multiple Choice       | 1.8        | [C++](Kattis/multiplechoice.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplechoice)      |
 | Where's My Internet?  | 1.8        | [C++](Kattis/wheresmyinternet.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/wheresmyinternet)    |
 | Broken Calculator     | 2.5        | [C++](Kattis/brokencalculator.cpp)                                        | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator)    |
