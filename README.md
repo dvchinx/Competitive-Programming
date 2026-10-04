@@ -108,5 +108,6 @@
 | Length of Last Word                 | Easy       | [C++](LeetCode/lengthOfLastWord.cpp)                | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/length-of-last-word/)                 |
 | Plus One                            | Easy       | [C++](LeetCode/plusOne.cpp)                         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/plus-one/)                            |
 | Add Binary                          | Easy       | [C++](LeetCode/addBinary.cpp)                       | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/add-binary/)                          |
+| Roman to Integer                    | Easy       | [C++](LeetCode/romanToInteger.cpp)                  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/roman-to-integer/)                    |
 
 </details>
