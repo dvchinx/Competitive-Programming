@@ -72,6 +72,7 @@
 | Mixed Fractions       | 1.4        | [C++](Kattis/mixedfractions.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
 | Bracket Matching      | 1.4        | [C++](Kattis/bracketmatching.cpp)                                         | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bracketmatching)     |
 | Playing Piano         | 1.4-1.5    | [C++](Kattis/playingpiano.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spelapiano)          |
+| Touch Grass           | 1.4-1.5    | [C++](Kattis/touchgrass.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/snertugras)          |
 | Roaming Romans        | 1.5        | [C++](Kattis/roamingromans.cpp)                                           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
 | Video Games           | 1.5        | [C++](Kattis/videogames.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/videogames)          |
 | Sum of Powers         | 1.5        | [C++](Kattis/sumofpowers.cpp) / [Python](Kattis/sumofpowers.py)           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumofpowers)         |
