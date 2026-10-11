@@ -12,12 +12,15 @@
 <details>
 <summary>Table of Contents</summary>
 
-| Contest | Problem               | Solution                                                                | Link                                                                                                                  |
-| ------- | --------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ABC476  | A - Appender          | [C++](AtCoder/Beginner%20Contest%20476/A%20-%20Appender.cpp)            | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_a) |
-| ABC476  | B - Wild Card         | [C++](AtCoder/Beginner%20Contest%20476/B%20-%20Wild%20Card.cpp)         | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_b) |
-| ABC477  | A - Traffic Light     | [C++](AtCoder/Beginner%20Contest%20477/A%20-%20Traffic%20Light.cpp)     | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_a) |
-| ABC477  | B - Standing Outliers | [C++](AtCoder/Beginner%20Contest%20477/B%20-%20Standing%20Outliers.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_b) |
+| Contest | Problem                  | Solution                                                                     | Link                                                                                                                  |
+| ------- | ------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ABC476  | A - Appender             | [C++](AtCoder/Beginner%20Contest%20476/A%20-%20Appender.cpp)                 | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_a) |
+| ABC476  | B - Wild Card            | [C++](AtCoder/Beginner%20Contest%20476/B%20-%20Wild%20Card.cpp)              | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc476/tasks/abc476_b) |
+| ABC477  | A - Traffic Light        | [C++](AtCoder/Beginner%20Contest%20477/A%20-%20Traffic%20Light.cpp)          | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_a) |
+| ABC477  | B - Standing Outliers    | [C++](AtCoder/Beginner%20Contest%20477/B%20-%20Standing%20Outliers.cpp)      | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc477/tasks/abc477_b) |
+| ABC479  | A - Odd Index Sum        | [C++](AtCoder/Beginner%20Contest%20479/A%20-%20Odd%20Index%20Sum.cpp)        | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_a) |
+| ABC479  | B - Longest Rainy Streak | [C++](AtCoder/Beginner%20Contest%20479/B%20-%20Longest%20Rainy%20Streak.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_b) |
+| ABC479  | C - Bento Packing        | [C++](AtCoder/Beginner%20Contest%20479/C%20-%20Bento%20Packing.cpp)          | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_c) |
 
 </details>
 
