@@ -33,6 +33,7 @@
 
 | ID    | Problem                    | Difficulty | Tags                                   | Solution                                                           | Link                                                                                            |
 | ----- | -------------------------- | ---------- | -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 96A   | Football                   | 900        | implementation, strings                | [C++](Codeforces/96A%20-%20Football.cpp)                           | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/96/A)   |
 | 136A  | Presents                   | 800        | implementation, math                   | [C++](Codeforces/136A%20-%20Presents.cpp)                          | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/136/A)  |
 | 141A  | Amusing Joke               | 800        | implementation, sortings, strings      | [C++](Codeforces/141A%20-%20Amusing%20Joke.cpp)                    | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/141/A)  |
 | 144A  | Arrival of the General     | 800        | implementation                         | [C++](Codeforces/144A%20-%20Arrival%20of%20the%20General.cpp)      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/144/A)  |
