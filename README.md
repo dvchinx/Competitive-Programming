@@ -121,5 +121,6 @@
 | Add Binary                          | Easy       | [C++](LeetCode/addBinary.cpp)                       | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/add-binary/)                          |
 | Roman to Integer                    | Easy       | [C++](LeetCode/romanToInteger.cpp)                  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/roman-to-integer/)                    |
 | Maximum Average Subarray I          | Easy       | [C++](LeetCode/maxAvgSubArray.cpp)                  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/maximum-average-subarray-i/)          |
+| Sqrt(x)                             | Easy       | [C++](LeetCode/sqrt.cpp)                            | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/sqrtx/)                               |
 
 </details>
