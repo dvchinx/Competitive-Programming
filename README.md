@@ -101,6 +101,7 @@
 | Beekeeper             | 2.6        | [C++](Kattis/beekeper.cpp)                                                | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beekeeper)           |
 | Eight Queens          | 2.7        | [C++](Kattis/eightqueens.cpp)                                             | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/8queens)             |
 | Disastrous Downtime   | 2.7        | [C++](Kattis/disastrousdowntime.cpp)                                      | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/downtime)            |
+| Selecting Tiles       | 3.9        | [C++](Kattis/selectingtiles.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/selectingtiles)      |
 
 </details>
 
