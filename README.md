@@ -131,5 +131,6 @@
 | Maximum Average Subarray I          | Easy       | [C++](LeetCode/maxAvgSubArray.cpp)                  | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/maximum-average-subarray-i/)          |
 | Sqrt(x)                             | Easy       | [C++](LeetCode/sqrt.cpp)                            | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/sqrtx/)                               |
 | Two Sum II - Input Array Is Sorted  | Medium     | [C++](LeetCode/twoSum2.cpp)                         | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)    |
+| Sum of Squares of Special Elements  | Easy       | [C++](LeetCode/sumOfSquaresOfSpecialElems.cpp)      | [![:lc:](https://leetcode.com/favicon-32x32.png)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)  |
 
 </details>
