@@ -21,6 +21,9 @@
 | ABC479  | A - Odd Index Sum        | [C++](AtCoder/Beginner%20Contest%20479/A%20-%20Odd%20Index%20Sum.cpp)        | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_a) |
 | ABC479  | B - Longest Rainy Streak | [C++](AtCoder/Beginner%20Contest%20479/B%20-%20Longest%20Rainy%20Streak.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_b) |
 | ABC479  | C - Bento Packing        | [C++](AtCoder/Beginner%20Contest%20479/C%20-%20Bento%20Packing.cpp)          | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc479/tasks/abc479_c) |
+| ABC480  | A - ADjacent             | [C++](AtCoder/Beginner%20Contest%20480/A%20-%20ADjacent.cpp)                 | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc480/tasks/abc480_a) |
+| ABC480  | B - Invalid Vote         | [C++](AtCoder/Beginner%20Contest%20480/B%20-%20Invalid%20Vote.cpp)           | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc480/tasks/abc480_b) |
+| ABC480  | C - Self Stopping Shower | [C++](AtCoder/Beginner%20Contest%20480/C%20-%20Self%20Stopping%20Shower.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc480/tasks/abc480_c) |
 
 </details>
 
