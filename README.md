@@ -69,6 +69,7 @@
 | 2275A | In Search of Convenience   | -          | -                                      | [C++](Codeforces/2275A%20-%20In%20Search%20of%20Convenience.cpp)   | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/A) |
 | 2275B | Did not Go to Print        | -          | -                                      | [C++](Codeforces/2275B%20-%20Did%20not%20Go%20to%20Print.cpp)      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/B) |
 | 2275C | Unrequited Love            | -          | -                                      | [C++](Codeforces/2275C%20-%20Unrequited%20Love.cpp)                | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/C) |
+| 2277A | Subset Selecting           | -          | -                                      | [C++](Codeforces/2277A%20-%20Subset%20Selecting.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2277/A) |
 
 </details>
 
