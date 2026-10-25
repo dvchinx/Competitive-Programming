@@ -70,6 +70,7 @@
 | 2275B | Did not Go to Print        | -          | -                                      | [C++](Codeforces/2275B%20-%20Did%20not%20Go%20to%20Print.cpp)      | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/B) |
 | 2275C | Unrequited Love            | -          | -                                      | [C++](Codeforces/2275C%20-%20Unrequited%20Love.cpp)                | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/C) |
 | 2277A | Subset Selecting           | -          | -                                      | [C++](Codeforces/2277A%20-%20Subset%20Selecting.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2277/A) |
+| 2277B | Sequence Decreasing        | -          | -                                      | [C++](Codeforces/2277B%20-%20Sequence%20Decreasing.cpp)            | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2277/B) |
 
 </details>
 
