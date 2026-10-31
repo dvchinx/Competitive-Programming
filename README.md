@@ -28,6 +28,10 @@
 | ABC481  | B - Polyline             | [C++](AtCoder/Beginner%20Contest%20481/B%20-%20Polyline.cpp)                 | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc481/tasks/abc481_b) |
 | ABC481  | C - Bank Accounts        | [C++](AtCoder/Beginner%20Contest%20481/C%20-%20Bank%20Accounts.cpp)          | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc481/tasks/abc481_c) |
 | ABC481  | D - Autopilot            | [C++](AtCoder/Beginner%20Contest%20481/D%20-%20Autopilot.cpp)                | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc481/tasks/abc481_d) |
+| ABC482  | A - Nigiri               | [C++](AtCoder/Beginner%20Contest%20482/A%20-%20Nigiri.cpp)                   | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_a) |
+| ABC482  | B - Blank Bingo          | [C++](AtCoder/Beginner%20Contest%20482/B%20-%20Blank%20Bingo.cpp)            | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_b) |
+| ABC482  | C - Band Count           | [C++](AtCoder/Beginner%20Contest%20482/C%20-%20Band%20Count.cpp)             | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_c) |
+| ABC482  | D - Wannabe Zombie       | [C++](AtCoder/Beginner%20Contest%20482/D%20-%20Wannabe%20Zombie.cpp)         | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_d) |
 
 </details>
 
