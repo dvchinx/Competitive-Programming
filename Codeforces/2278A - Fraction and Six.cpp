@@ -1,3 +1,10 @@
+/*
+Problem: 2278A. Fraction and Six
+URL: https://codeforces.com/contest/2278/problem/A
+Language: C++
+Author: dvchinx
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
  

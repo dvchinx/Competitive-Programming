@@ -1,3 +1,10 @@
+/*
+Problem: 2278B. Stakes and Shapes
+URL: https://codeforces.com/contest/2278/problem/B
+Language: C++
+Author: dvchinx
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
  

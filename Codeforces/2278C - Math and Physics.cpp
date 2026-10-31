@@ -1,3 +1,10 @@
+/*
+Problem: 2278C. Math and Physics
+URL: https://codeforces.com/contest/2278/problem/C
+Language: C++
+Author: dvchinx
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
  
