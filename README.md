@@ -75,6 +75,9 @@
 | 2275C | Unrequited Love            | -          | -                                      | [C++](Codeforces/2275C%20-%20Unrequited%20Love.cpp)                | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2275/C) |
 | 2277A | Subset Selecting           | -          | -                                      | [C++](Codeforces/2277A%20-%20Subset%20Selecting.cpp)               | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2277/A) |
 | 2277B | Sequence Decreasing        | -          | -                                      | [C++](Codeforces/2277B%20-%20Sequence%20Decreasing.cpp)            | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2277/B) |
+| 2278A | Fraction and Six           | -          | -                                      | [C++](Codeforces/2278A%20-%20Fraction%20and%20Six.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/A) |
+| 2278B | Stakes and Shapes          | -          | -                                      | [C++](Codeforces/2278B%20-%20Stakes%20and%20Shapes.cpp)            | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/B) |
+| 2278C | Math and Physics           | -          | -                                      | [C++](Codeforces/2278C%20-%20Math%20and%20Physics.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/C) |
 
 </details>
 
