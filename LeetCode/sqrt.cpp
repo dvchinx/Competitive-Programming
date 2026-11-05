@@ -1,6 +1,6 @@
 /*
 Problem: 69. Sqrt(x)
-URL: https://leetcode.com/problems/longest-common-prefix/
+URL: https://leetcode.com/problems/sqrtx/
 Language: C++
 Author: dvchinx
 */
