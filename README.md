@@ -80,6 +80,9 @@
 | 2278A | Fraction and Six           | -          | -                                      | [C++](Codeforces/2278A%20-%20Fraction%20and%20Six.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/A) |
 | 2278B | Stakes and Shapes          | -          | -                                      | [C++](Codeforces/2278B%20-%20Stakes%20and%20Shapes.cpp)            | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/B) |
 | 2278C | Math and Physics           | -          | -                                      | [C++](Codeforces/2278C%20-%20Math%20and%20Physics.cpp)             | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2278/C) |
+| 2284A1 | 15K4JR3B (Easy Version) | - | - | [C++](Codeforces/2284A1%20-%2015K4JR3B%20(Easy%20Version).cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2284/A1) |
+| 2284A2 | 15K4JR3B (Hard Version) | - | - | [C++](Codeforces/2284A2%20-%2015K4JR3B%20(Hard%20Version).cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2284/A2) |
+| 2284B | Introduction to the Niche Internet | - | - | [C++](Codeforces/2284B%20-%20Introduction%20to%20the%20Niche%20Internet.cpp) | [![:cf:](https://codeforces.com/favicon.ico)](https://codeforces.com/problemset/problem/2284/B) |
 
 </details>
 
