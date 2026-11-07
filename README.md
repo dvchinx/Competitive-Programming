@@ -32,6 +32,9 @@
 | ABC482  | B - Blank Bingo          | [C++](AtCoder/Beginner%20Contest%20482/B%20-%20Blank%20Bingo.cpp)            | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_b) |
 | ABC482  | C - Band Count           | [C++](AtCoder/Beginner%20Contest%20482/C%20-%20Band%20Count.cpp)             | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_c) |
 | ABC482  | D - Wannabe Zombie       | [C++](AtCoder/Beginner%20Contest%20482/D%20-%20Wannabe%20Zombie.cpp)         | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc482/tasks/abc482_d) |
+| ABC483  | A - Double-Sided Printing | [C++](AtCoder/Beginner%20Contest%20483/A%20-%20Double-Sided%20Printing.cpp)  | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc483/tasks/abc483_a) |
+| ABC483  | B - Flip Card Stack      | [C++](AtCoder/Beginner%20Contest%20483/B%20-%20Flip%20Card%20Stack.cpp)      | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc483/tasks/abc483_b) |
+| ABC483  | C - Second Choice Election | [C++](AtCoder/Beginner%20Contest%20483/C%20-%20Second%20Choice%20Election.cpp) | [<img src="https://atcoder.jp/favicon.ico" width="16" alt=":ac:">](https://atcoder.jp/contests/abc483/tasks/abc483_c) |
 
 </details>
 
