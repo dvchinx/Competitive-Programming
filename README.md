@@ -106,6 +106,7 @@
 | Judging Moose         | 1.4        | [C++](Kattis/judgingmoose.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)        |
 | Mixed Fractions       | 1.4        | [C++](Kattis/mixedfractions.cpp)                                          | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions)      |
 | Bracket Matching      | 1.4        | [C++](Kattis/bracketmatching.cpp)                                         | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bracketmatching)     |
+| Alphabet Spam         | 1.4        | [C++](Kattis/alphabetspam.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam)        |
 | Playing Piano         | 1.4-1.5    | [C++](Kattis/playingpiano.cpp)                                            | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spelapiano)          |
 | Touch Grass           | 1.4-1.5    | [C++](Kattis/touchgrass.cpp)                                              | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/snertugras)          |
 | Roaming Romans        | 1.5        | [C++](Kattis/roamingromans.cpp)                                           | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans)              |
